@@ -1,6 +1,6 @@
 const matchbtn = document.getElementById('checkMatchbox')
 const matchresult = document.querySelector(".matchResultBox")
-let matches = ["Love", "Friends", "Kattar Dushman", "siblings", "Affection",]
+// let matches = ["Love", "Friends", "Kattar Dushman", "siblings", "Affection",]
 
 const flames = (username, crushName) => {
     if (username && crushName) {
